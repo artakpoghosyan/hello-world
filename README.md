@@ -1,3 +1,3 @@
 # hello-world
 My first repository
-Hi I'm doing some changes in this branch.
+Hi I have done some changes in this branch.
